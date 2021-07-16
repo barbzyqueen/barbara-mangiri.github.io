@@ -1260,6 +1260,12 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+ .scrollbar1{
+    /*margin-top:100px;*/
+    height:500px;
+  }
+
 .team-gd {
     padding: 0;
 	position:relative;
